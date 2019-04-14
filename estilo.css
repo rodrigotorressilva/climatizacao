@@ -17,9 +17,9 @@ body {
     position: relative;
     width: 530px;
     height: 600px;
-	margin-right: auto;
-	margin-top: 0;
-	margin-left: auto;
+		margin-right: auto;
+		margin-top: 0;
+		margin-left: auto;
     font-size: 30px;
     color: black;
     text-align: center;
@@ -27,16 +27,16 @@ body {
 }
 
 #div1 {
-	position: absolute;
-	right: 85px;
-	top: 195px;
+		position: absolute;
+		right: 85px;
+		top: 195px;
     border-radius: 25px;
     border: 2px solid #000000;
     width: 350px;
     height: 150px; 
 }
 
-		#divimgtemperatura {
+#divimgtemperatura {
 			position: absolute;
 			right: -125px;
 			top: 220px;
@@ -47,7 +47,7 @@ body {
 			background: url(https://rodrigotorressilva.github.io/climatizacao/temperature-thermometer.jpg) no-repeat left top;
 		}
 
-		#divtexttemp {
+#divtexttemp {
 			position: absolute;
 			right: 230px;
 			top: 251px;
@@ -67,7 +67,7 @@ body {
 			text-align: center;
 		}
 
-		#divtexttempmax {
+#divtexttempmax {
 			position: absolute;
 			right: 300px;
 			top: 310px;
@@ -87,7 +87,7 @@ body {
 			text-align: center;
 		}
 
-		#divtexttempmin {
+#divtexttempmin {
 			position: absolute;
 			right: 170px;
 			top: 310px;
@@ -107,7 +107,7 @@ body {
 			text-align: center;
 		}
 
-		#divlbltempmax {
+#divlbltempmax {
 			position: absolute;
 			right: 319px;
 			top: 301px;
@@ -127,7 +127,7 @@ body {
 			text-align: center;
 		}
 
-		#divlbltempmin {
+#divlbltempmin {
 			position: absolute;
 			right: 188px;
 			top: 301px;
@@ -149,16 +149,16 @@ body {
 
 
 #div2 {
-	position: absolute;
-	right: 85px;
-	top: 355px;
+		position: absolute;
+		right: 85px;
+		top: 355px;
     border-radius: 25px;
     border: 2px solid #000000;
     width: 350px;
     height: 150px; 
 }
 
-		#divimgumidade {
+#divimgumidade {
 			position: absolute;
 			right: -99px;
 			top: 387px;
@@ -168,7 +168,7 @@ body {
 			background: url(https://rodrigotorressilva.github.io/climatizacao/humidity-symbol.jpg) no-repeat left top;
 		}
 
-		#divtexthum {
+#divtexthum {
 			position: absolute;
 			right: 230px;
 			top: 411px;
@@ -188,7 +188,7 @@ body {
 			text-align: center;
 		}
 
-		#divtexthummax {
+#divtexthummax {
 			position: absolute;
 			right: 300px;
 			top: 470px;
@@ -208,7 +208,7 @@ body {
 			text-align: center;
 		}
 
-		#divtexthummin {
+#divtexthummin {
 			position: absolute;
 			right: 170px;
 			top: 470px;
@@ -228,7 +228,7 @@ body {
 			text-align: center;
 		}
 
-		#divlblhummax {
+#divlblhummax {
 			position: absolute;
 			right: 319px;
 			top: 460px;
@@ -248,7 +248,7 @@ body {
 			text-align: center;
 		}
 
-		#divlblhummin {
+#divlblhummin {
 			position: absolute;
 			right: 188px;
 			top: 460px;
@@ -268,16 +268,15 @@ body {
 			text-align: center;
 		}
 
-
 #botao {
-	position: absolute;
-	right: 230px;
-	top: 540px;
-	width: 125px;
-	height: 256px;
+			position: absolute;
+			right: 230px;
+			top: 540px;
+			width: 125px;
+			height: 256px;
 }
 
-		.imgbotao {
+.imgbotao {
 			//-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
 			//-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
 			//box-shadow:inset 0px 0px 0px 0px #ffffff;
@@ -301,7 +300,7 @@ body {
 			text-align:center;
 		}
 
-		.imgbotao:active {
+.imgbotao:active {
 			position:relative;
 			top:1px;
-		}
+}

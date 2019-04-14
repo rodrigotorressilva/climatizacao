@@ -182,9 +182,9 @@ background: url(https://rodrigotorressilva.github.io/climatizacao/humidity-symbo
 
 #divtexthum {
 position: absolute;
-right: 200px;
+right: 250px;
 top: 411px;
-width: 250px;
+width: 200px;
 height: 25px;
 border-radius:6px;
 border:1px solid #dcdcdc;

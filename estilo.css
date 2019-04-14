@@ -1,6 +1,6 @@
 /* 
     CSS Projeto Automacao
-    Climatização Residencial Inteligente
+    Sistema de Climatização Inteligente
 */
 
 root { 
@@ -44,7 +44,7 @@ body {
 			height: 206px;
 			border: none;
 			margin: auto;
-			background: url("../img/temperature-thermometer.jpg") no-repeat left top;
+			background: url(https://rodrigotorressilva.github.io/climatizacao/temperature-thermometer.jpg) no-repeat left top;
 		}
 
 		#divtexttemp {
@@ -165,7 +165,7 @@ body {
 			width: 300px;
 			height: 206px;
 			border: none;
-			background: url("../img/humidity-symbol.jpg") no-repeat left top;
+			background: url(https://rodrigotorressilva.github.io/climatizacao/humidity-symbol.jpg) no-repeat left top;
 		}
 
 		#divtexthum {

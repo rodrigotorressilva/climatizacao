@@ -42,7 +42,7 @@ height: 150px;
 
 #divimgtemperatura {
 position: absolute;
-right: 215px;
+right: 210px;
 top: 220px;
 width: 300px;
 height: 206px;
@@ -182,7 +182,7 @@ background: url(https://rodrigotorressilva.github.io/climatizacao/humidity-symbo
 
 #divtexthum {
 position: absolute;
-right: 480px;
+right: 580px;
 top: 411px;
 width: 200px;
 height: 25px;
